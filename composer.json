@@ -1,0 +1,18 @@
+{
+  "name": "mikoweb/cross_domain_fonts",
+  "homepage": "http://vision-web.pl",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rafał Mikołajun",
+      "email": "rafal@vision-web.pl",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "symfony/http-foundation": "~2.7"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
